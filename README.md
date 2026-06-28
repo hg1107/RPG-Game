@@ -133,18 +133,5 @@ If you like this project:
 Free to use and modify.
 
 ---
-
-## 💡 Pro Tip (for YOU)
-
-Add a **GIF demo** instead of a static image — it makes your GitHub look 10x better.
-
-Use tools like:
-
-* ScreenToGif (Windows)
-* OBS Studio
-
-Then replace preview image with:
-
-```html
 <img src="your-gif-link.gif">
 ```
